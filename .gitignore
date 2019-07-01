@@ -1,0 +1,8 @@
+.pytest_cache
+.venv
+.vscode
+build
+dist
+flaskr.egg-info
+htmlcov
+instance
