@@ -2,6 +2,7 @@
 # Usage: pip install -r requirements.txt
 
 # Flask Framework
+gunicorn==19.9.0
 Flask==1.0.3
 
 # Flask Packages
